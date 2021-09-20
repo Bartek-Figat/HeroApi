@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/HeroApi/static/css/main.ea11c72a.chunk.css",
-    "main.js": "/HeroApi/static/js/main.6e169519.chunk.js",
-    "main.js.map": "/HeroApi/static/js/main.6e169519.chunk.js.map",
+    "main.js": "/HeroApi/static/js/main.6d7b1991.chunk.js",
+    "main.js.map": "/HeroApi/static/js/main.6d7b1991.chunk.js.map",
     "runtime-main.js": "/HeroApi/static/js/runtime-main.9fe277f1.js",
     "runtime-main.js.map": "/HeroApi/static/js/runtime-main.9fe277f1.js.map",
-    "static/js/2.fa0ce0e3.chunk.js": "/HeroApi/static/js/2.fa0ce0e3.chunk.js",
-    "static/js/2.fa0ce0e3.chunk.js.map": "/HeroApi/static/js/2.fa0ce0e3.chunk.js.map",
+    "static/js/2.a0cc4120.chunk.js": "/HeroApi/static/js/2.a0cc4120.chunk.js",
+    "static/js/2.a0cc4120.chunk.js.map": "/HeroApi/static/js/2.a0cc4120.chunk.js.map",
     "static/js/3.a6f041ad.chunk.js": "/HeroApi/static/js/3.a6f041ad.chunk.js",
     "static/js/3.a6f041ad.chunk.js.map": "/HeroApi/static/js/3.a6f041ad.chunk.js.map",
     "index.html": "/HeroApi/index.html",
     "static/css/main.ea11c72a.chunk.css.map": "/HeroApi/static/css/main.ea11c72a.chunk.css.map",
-    "static/js/2.fa0ce0e3.chunk.js.LICENSE.txt": "/HeroApi/static/js/2.fa0ce0e3.chunk.js.LICENSE.txt",
+    "static/js/2.a0cc4120.chunk.js.LICENSE.txt": "/HeroApi/static/js/2.a0cc4120.chunk.js.LICENSE.txt",
     "static/media/combaticon.980f6461.svg": "/HeroApi/static/media/combaticon.980f6461.svg",
     "static/media/durabilityicon.7e6a43fd.svg": "/HeroApi/static/media/durabilityicon.7e6a43fd.svg",
     "static/media/intelligenceicon.01de5f8b.svg": "/HeroApi/static/media/intelligenceicon.01de5f8b.svg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9fe277f1.js",
-    "static/js/2.fa0ce0e3.chunk.js",
+    "static/js/2.a0cc4120.chunk.js",
     "static/css/main.ea11c72a.chunk.css",
-    "static/js/main.6e169519.chunk.js"
+    "static/js/main.6d7b1991.chunk.js"
   ]
 }
