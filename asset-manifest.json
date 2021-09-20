@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/HeroApi/static/css/main.ea11c72a.chunk.css",
-    "main.js": "/HeroApi/static/js/main.c37c025d.chunk.js",
-    "main.js.map": "/HeroApi/static/js/main.c37c025d.chunk.js.map",
+    "main.js": "/HeroApi/static/js/main.9a422beb.chunk.js",
+    "main.js.map": "/HeroApi/static/js/main.9a422beb.chunk.js.map",
     "runtime-main.js": "/HeroApi/static/js/runtime-main.9fe277f1.js",
     "runtime-main.js.map": "/HeroApi/static/js/runtime-main.9fe277f1.js.map",
     "static/js/2.fa0ce0e3.chunk.js": "/HeroApi/static/js/2.fa0ce0e3.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.9fe277f1.js",
     "static/js/2.fa0ce0e3.chunk.js",
     "static/css/main.ea11c72a.chunk.css",
-    "static/js/main.c37c025d.chunk.js"
+    "static/js/main.9a422beb.chunk.js"
   ]
 }
