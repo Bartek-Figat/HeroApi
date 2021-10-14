@@ -1,4 +1,4 @@
-import {CombatIcon, DurabilityIcon, IntelligenceIcon, PowerIcon, SpeedIcon, StrengthIcon} from '../../../assets/icons';
+import {CombatIcon, DurabilityIcon, IntelligenceIcon, PowerIcon, SpeedIcon } from '../../../assets/icons';
 import './HeroDetailsView.css';
 
 function HeroDetailsView({ hero }) {
