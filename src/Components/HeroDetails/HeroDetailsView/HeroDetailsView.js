@@ -1,4 +1,4 @@
-import * as icon from '../../../assets/icons';
+import {CombatIcon, DurabilityIcon, IntelligenceIcon, PowerIcon, SpeedIcon, StrengthIcon} from '../../../assets/icons';
 import './HeroDetailsView.css';
 
 function HeroDetailsView({ hero }) {
@@ -25,7 +25,7 @@ function HeroDetailsView({ hero }) {
                 <label htmlFor="combat">Combat: </label>
                 <progress id="combat" value={hero.powerstats.combat} max="100"></progress>
                 <span>
-                  <img className="hero__details__view__powerstats__icon" src={icon.combatIcon} alt="combat Icon" />
+                  <img className="hero__details__view__powerstats__icon" src={CombatIcon} alt="combat Icon" />
                   {hero.powerstats.combat}
                 </span>
               </div>
@@ -33,7 +33,7 @@ function HeroDetailsView({ hero }) {
                 <label htmlFor="durability">Durability: </label>
                 <progress id="durability" value={hero.powerstats.durability} max="100"></progress>
                 <span>
-                  <img className="hero__details__view__powerstats__icon" src={icon.durabilityIcon} alt="durability Icon" />
+                  <img className="hero__details__view__powerstats__icon" src={DurabilityIcon} alt="durability Icon" />
                   {hero.powerstats.durability}
                 </span>
               </div>
@@ -41,7 +41,7 @@ function HeroDetailsView({ hero }) {
                 <label htmlFor="intelligence">Intelligence: </label>
                 <progress id="intelligence" value={hero.powerstats.intelligence} max="100"></progress>
                 <span>
-                  <img className="hero__details__view__powerstats__icon" src={icon.intelligenceIcon} alt="intelligence Icon" />
+                  <img className="hero__details__view__powerstats__icon" src={IntelligenceIcon} alt="intelligence Icon" />
                   {hero.powerstats.intelligence}
                 </span>
               </div>
@@ -50,7 +50,7 @@ function HeroDetailsView({ hero }) {
                 <label htmlFor="power">Power: </label>
                 <progress id="power" value={hero.powerstats.power} max="100"></progress>
                 <span>
-                  <img className="hero__details__view__powerstats__icon" src={icon.powerIcon} alt="power Icon" />
+                  <img className="hero__details__view__powerstats__icon" src={PowerIcon} alt="power Icon" />
                   {hero.powerstats.power}
                 </span>
               </div>
@@ -58,7 +58,7 @@ function HeroDetailsView({ hero }) {
                 <label htmlFor="speed">Speed: </label>
                 <progress id="speed" value={hero.powerstats.speed} max="100"></progress>
                 <span>
-                  <img className="hero__details__view__powerstats__icon" src={icon.speedIcon} alt="speed Icon" />
+                  <img className="hero__details__view__powerstats__icon" src={PowerIcon} alt="speed Icon" />
                   {hero.powerstats.speed}
                 </span>
               </div>
@@ -66,7 +66,7 @@ function HeroDetailsView({ hero }) {
                 <label htmlFor="strength">Strength: </label>
                 <progress id="strength" value={hero.powerstats.strength} max="100"></progress>
                 <span>
-                  <img className="hero__details__view__powerstats__icon" src={icon.strengthIcon} alt="strength Icon" />
+                  <img className="hero__details__view__powerstats__icon" src={SpeedIcon} alt="strength Icon" />
                   {hero.powerstats.strength}
                 </span>
               </div>
