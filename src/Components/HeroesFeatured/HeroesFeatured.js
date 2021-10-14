@@ -24,7 +24,7 @@ function HeroesFeatured() {
       herosList.push(data)
     }
 
-
+console.log(herosList);
     if(!herosList){
       setLoadingState(true);
     }else{
