@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "proxy": "https://superheroapi.com",
+  "proxy": "https://hero-api-super-hero.vercel.app",
   "eslintConfig": {
     "extends": [
       "react-app",

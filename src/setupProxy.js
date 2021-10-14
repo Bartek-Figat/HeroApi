@@ -4,7 +4,7 @@ module.exports = function (app) {
   app.use(
     '/',
     createProxyMiddleware({
-      target: 'https://hero-api-super-hero.vercel.app/',
+      target: 'https://hero-api-super-hero.vercel.app',
       changeOrigin: true,
     })
   );
